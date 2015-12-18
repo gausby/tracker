@@ -1,0 +1,8 @@
+%{"bencode": {:hex, :bencode, "0.2.0"},
+  "cowboy": {:hex, :cowboy, "1.0.4"},
+  "cowlib": {:hex, :cowlib, "1.0.2"},
+  "eqc_ex": {:hex, :eqc_ex, "1.2.4"},
+  "gproc": {:hex, :gproc, "0.5.0"},
+  "plug": {:hex, :plug, "1.0.3"},
+  "ranch": {:hex, :ranch, "1.2.0"},
+  "uuid": {:hex, :uuid, "1.1.1"}}
