@@ -20,7 +20,7 @@ Please tell me about your experiences using it for something real, and please he
 
 ## License
 
-Copyright 2015 Martin Gausby
+Copyright 2016 Martin Gausby
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
